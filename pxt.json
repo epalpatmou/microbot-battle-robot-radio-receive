@@ -1,0 +1,22 @@
+{
+    "name": "micro:bot Battle Robot Radio Receive",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "motobit": "github:sparkfun/pxt-moto-bit#v0.0.3",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
